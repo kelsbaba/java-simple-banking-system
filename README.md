@@ -17,6 +17,9 @@ A console-based banking application built with Java using Object-Oriented Progra
 - [Technologies Used](#technologies-used)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
+## Screenshot
+
+![Java Simple Banking System](images/banking-system-demo.png)
 ## Features
 
 - Add new customers
