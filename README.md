@@ -1,6 +1,22 @@
+![Java](https://img.shields.io/badge/Java-25-orange)
+![Maven](https://img.shields.io/badge/Maven-3-blue)
+![JUnit](https://img.shields.io/badge/JUnit-5-green)
+![Git](https://img.shields.io/badge/Git-Version_Control-red)
+
 # Java Simple Banking System
 
 A console-based banking application built with Java using Object-Oriented Programming (OOP) principles. This project demonstrates customer management, transaction processing, exception handling, unit testing with JUnit 5, and Maven project organization.
+
+## Table of Contents
+
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Running the Application](#running-the-application)
+- [Running the Tests](#running-the-tests)
+- [Technologies Used](#technologies-used)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
 ## Features
 
 - Add new customers
